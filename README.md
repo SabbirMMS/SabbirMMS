@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirmms" alt="sabbirmms" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/monjelsabbir" target="blank"><img src="https://img.shields.io/twitter/follow/monjelsabbir?logo=twitter&style=for-the-badge" alt="monjelsabbir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sabbirmms" target="blank"><img src="https://img.shields.io/twitter/follow/sabbirmms?logo=twitter&style=for-the-badge" alt="sabbirmms" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin, JetPack Compose**
 
