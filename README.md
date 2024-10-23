@@ -84,11 +84,11 @@ My aim is to continue delivering top-notch solutions while staying at the forefr
 
 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirmms&layout=compact&theme=radical&show_icons=true&locale=en' width="40%" height="100%">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirmms&layout=compact&theme=radical&show_icons=true&locale=en' height="100%">
+
+<img src='https://github-readme-stats.vercel.app/api?username=sabbirmms&theme=radical&show_icons=true&locale=en' height="100%">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirmms&theme=radical" alt="sabbirmms" /></p>
-
-<img src='https://github-readme-stats.vercel.app/api?username=sabbirmms&theme=radical&show_icons=true&locale=en' width="55%" height="100%">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sabbirmms&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
