@@ -57,7 +57,7 @@ My aim is to continue delivering top-notch solutions while staying at the forefr
 
 ### 📫 **Get in Touch**:
 - **Email**: mr.sabbirmms+github@gmail.com
-- [**Portfolio Website**](https://mr-mms-studio.blogspot.com/)
+- [**Portfolio Website**](https://sabbirmms.github.io/portfolio)
 
 ---
 
