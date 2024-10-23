@@ -6,13 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=sabbirmms&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirmms" />
 </p>
 
-<p style="font-size:2rem; font-weight:bold;"> 
-  Monjel Morshed Sabbir
-</p>
+### Monjel Morshed Sabbir
 
 
 
-#### I am a versatile **Mobile App Developer** and **Web Developer Expert** with a strong background in building dynamic and high-performance applications across multiple platforms. I am passionate about leveraging cutting-edge technologies to deliver superior digital experiences and am currently expanding my skillset with **Kotlin**.
+I am a versatile **Mobile App Developer** and **Web Developer Expert** with a strong background in building dynamic and high-performance applications across multiple platforms. I am passionate about leveraging cutting-edge technologies to deliver superior digital experiences and am currently expanding my skillset with **Kotlin**.
 
 
 ---
@@ -84,16 +82,18 @@ My aim is to continue delivering top-notch solutions while staying at the forefr
 
  
 
-<div style="margin: 0.8rem 0px; display: flex; flex-direction: column; gap: 0.5rem;">
+
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirmms&layout=compact&theme=radical&show_icons=true&locale=en' width="40%" height="100%">
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirmms&theme=radical" alt="sabbirmms" /></p>
+
 <img src='https://github-readme-stats.vercel.app/api?username=sabbirmms&theme=radical&show_icons=true&locale=en' width="55%" height="100%">
-</div>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sabbirmms&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirmms&theme=radical" alt="sabbirmms" /></p>
+
 
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirmms&show_icons=true&locale=en&layout=compact" alt="sabbirmms" /></p>
