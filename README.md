@@ -1,41 +1,109 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
-<img src="https://images.pexels.com/photos/20559583/pexels-photo-20559583/free-photo-of-monjel-morshed-sabbir.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" align="right"
-      width="200" height="200">
-<h1 align="center">Monjel Morshed Sabbir</h1>
-<h2 align="center">Passionate Android app developer from Bangladesh with expertise in graphics design and video editing. A versatile professional offering capital admin support for comprehensive project management.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirmms&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirmms" /> </p>
+<img src="https://images.pexels.com/photos/20559583/pexels-photo-20559583/free-photo-of-monjel-morshed-sabbir.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="150" height="150" style="border-radius: 50%; margin: 10px 20px" align="left" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirmms" alt="sabbirmms" /></a> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sabbirmms&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirmms" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/sabbirmms" target="blank"><img src="https://img.shields.io/twitter/follow/sabbirmms?logo=twitter&style=for-the-badge" alt="sabbirmms" /></a> </p>
+<p style="font-size:2rem; font-weight:bold;"> 
+  Monjel Morshed Sabbir
+</p>
 
-- 🌱 I’m currently learning **Kotlin, JetPack Compose**
 
-- 💬 Ask me about **Android, Discord, Video Editing, Logo/Graphics Design, Admin Support**
 
-- 📫 How to reach me **mr.sabbirmms+github@gmail.com**
+#### I am a versatile **Mobile App Developer** and **Web Developer Expert** with a strong background in building dynamic and high-performance applications across multiple platforms. I am passionate about leveraging cutting-edge technologies to deliver superior digital experiences and am currently expanding my skillset with **Kotlin**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+---
+
+### About Me
+
+I am a **Mobile App Developer** specializing in **Java** and a **Web Developer** with expertise in **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, **ReactJS**, **Node.js**, and **Native JavaScript**. I focus on creating scalable, efficient, and user-friendly applications for both web and mobile platforms. 
+
+Currently, I am learning **Kotlin** as I expand my mobile app development skills, although I do not develop with Jetpack Compose.
+
+My aim is to continue delivering top-notch solutions while staying at the forefront of technological advancements, driving innovation with each project I undertake. 
+
+**Portfolio**: Check out my [**Portfolio Website**](https://sabbirmms.github.io/portfolio) to see more about my latest work, projects, and ways to contact me.
+
+---
+
+### 🚀 **Technologies I Work With**:
+
+#### Mobile Development:
+- **Java** (Android App Development)
+- **Kotlin** (Learning)
+
+#### Web Development:
+- **HTML**, **CSS**, **JavaScript**
+- **Tailwind CSS**
+- **ReactJS**
+- **Node.js**
+- **Native JavaScript**
+
+#### Other Tools and Platforms:
+- **Firebase** (Backend)
+- **Google Cloud Platform** (Cloud Services)
+- **Git** (Version Control)
+- **MySQL**, **PHP** (Backend Development)
+
+---
+
+### 🌱 **Currently Learning**:
+- **Kotlin** for expanding my Android app development skills.
+  
+---
+
+### 📫 **Get in Touch**:
+- **Email**: mr.sabbirmms+github@gmail.com
+- [**Portfolio Website**](https://mr-mms-studio.blogspot.com/)
+
+---
+
+### 📱 **Find Me Online**:
+
+<a href="https://mr-mms-studio.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
 <a href="https://dev.to/sabbirmms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sabbirmms" height="30" width="40" /></a>
 <a href="https://twitter.com/monjelsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monjelsabbir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sabbirmms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbirmms" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20355524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20355524" height="30" width="40" /></a>
-<a href="https://fb.com/developermr.mms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developermr.mms" height="30" width="40" /></a>
-<a href="https://instagram.com/sabbirmms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabbirmms" height="30" width="40" /></a>
-<a href="https://medium.com/@sabbirmms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sabbirmms" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/developermrmms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developermrmms" height="30" width="40" /></a>
-<a href="/https://mr-mms-studio.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mr-mms-studio.blogspot.com/" height="30" width="40" /></a>
-</p>
+<a href="https://stackoverflow.com/users/20355524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
+### 🎨 **Other Skills (Graphics Design, Video Editing, etc.)**:
+- **Adobe Illustrator**
+- **Adobe Photoshop**
+- **Logo Design**
+- **Video Editing**
+
+---
+
+### ⚙️ **GitHub Stats**:
+
+
+ 
+
+<div style="margin: 0.8rem 0px; display: flex; flex-direction: column; gap: 0.5rem;">
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirmms&layout=compact&theme=radical&show_icons=true&locale=en' width="40%" height="100%">
+
+<img src='https://github-readme-stats.vercel.app/api?username=sabbirmms&theme=radical&show_icons=true&locale=en' width="55%" height="100%">
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sabbirmms&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirmms&theme=radical" alt="sabbirmms" /></p>
+
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirmms&show_icons=true&locale=en&layout=compact" alt="sabbirmms" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirmms&show_icons=true&locale=en" alt="sabbirmms" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirmms&show_icons=true&locale=en" alt="sabbirmms" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirmms&" alt="sabbirmms" /></p>
+---
 
-# ![](https://cdn.discordapp.com/attachments/1104657948866773063/1104658590595301487/cover.jpg)
+<!-- ### 🔗 **Dynamic Footer**: -->
+
+<p align="center">Thank you for visiting my profile! Feel free to explore my projects and get in touch if you'd like to collaborate.</p>
+
+<!-- ![Footer](https://cdn.discordapp.com/attachments/1104657948866773063/1104658590595301487/cover.jpg) -->
