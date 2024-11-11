@@ -36,9 +36,7 @@ My aim is to continue delivering top-notch solutions while staying at the forefr
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="20"/> <!-- **JavaScript** -->
 - <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="20"/> <!-- **Tailwind CSS** -->
 - <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="20"/> <!-- **ReactJS** -->
-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="20"/> <!-- **Node.js** 
-
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="20"/> **Native JavaScript** -->
+- <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="20"/> <!-- **Node.js** -->
 
 #### Other Tools and Platforms:
 
