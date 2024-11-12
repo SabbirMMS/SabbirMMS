@@ -6,13 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=sabbirmms&label=Profile%20views&color=0e75b6&style=plastic" alt="sabbirmms" />
 </p>
 
-### Monjel Morshed Sabbir
+### Hello There,
 
-I am a versatile **Mobile App Developer** and **Web Developer Expert** with a strong background in building dynamic and high-performance applications across multiple platforms. I am passionate about leveraging cutting-edge technologies to deliver superior digital experiences and am currently expanding my skillset with **Kotlin**.
+I am a versatile **Mobile App Developer** and **Web Development Expert** with a strong background in building dynamic and high-performance applications across multiple platforms. I am passionate about leveraging cutting-edge technologies to deliver superior digital experiences and am currently expanding my skillset with **Kotlin**.
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
 I am a **Mobile App Developer** specializing in **Java** and a **Web Developer** with expertise in **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, **ReactJS**, **Node.js**, and **Native JavaScript**. I focus on creating scalable, efficient, and user-friendly applications for both web and mobile platforms.
 
@@ -23,13 +23,13 @@ My aim is to continue delivering top-notch solutions while staying at the forefr
 **Portfolio**: Check out my [**Portfolio Website**](https://sabbirmms.github.io/portfolio) to see more about my latest work, projects, and ways to contact me.
 
 ---
-#### Mobile Development:
+### 📱 Mobile Development:
 
 - <img src="https://img.shields.io/badge/Java-ed8b00?style=plastic&logo=openjdk&logoColor=white" height="20"/> <!-- **Java** (Android App Development) -->
 - <img src="https://img.shields.io/badge/Kotlin-d162aa?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin" height="20"/> <!-- **Kotlin** (Learning) -->
 - <img src="https://img.shields.io/badge/Flutter-0095D5?style=plastic&logo=flutter&logoColor=white" alt="Kotlin" height="20"/> <!-- **Kotlin** (Learning) -->
 
-#### Web Development:
+### 🌐 Web Development:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML" height="20"/> <!-- **HTML** -->
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS" height="20"/> <!-- **CSS** -->
@@ -38,27 +38,41 @@ My aim is to continue delivering top-notch solutions while staying at the forefr
 - <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React" height="20"/> <!-- **ReactJS** -->
 - <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" alt="Node.js" height="20"/> <!-- **Node.js** -->
 
-#### Other Tools and Platforms:
+### 🛠️ Other Tools and Platforms:
 
-- <img src="https://img.shields.io/badge/Firebase-ff9408?style=plastic&logo=firebase&logoColor=white" alt="Firebase" height="20"/> <!-- **Firebase** (Backend) -->
-- <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" height="20"/> <!-- **Google Cloud Platform** (Cloud Services) -->
-- <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" height="20"/> <!-- **Git** (Version Control) -->
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" height="20"/> <!-- **MySQL** -->
-- <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" height="20"/> <!-- **PHP** (Backend Development) -->
-- <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" height="20"/> <!-- **Markdown** -->
-- <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" height="20"/> <!-- **Netlify** -->
-- <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" height="20"/> <!-- **Angular** -->
-- <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray" height="20"/> <!-- **Django REST** -->
-- <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white" height="20"/> <!-- **NPM** -->
-- <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" height="20"/> <!-- **Next.js** -->
-- <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" height="20"/> <!-- **React Router** -->
-- <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white" height="20"/> <!-- **Yarn** -->
-- <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" height="20"/> <!-- **Apache** -->
-- <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" height="20"/> <!-- **SQLite** -->
-- <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white" height="20"/> <!-- **MySQL** -->
-- <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white" height="20"/> <!-- **Gradle** -->
-- <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" height="20"/> <!-- **Notion** -->
-- <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" height="20"/> <!-- **Vercel** -->
+- **Backend & Cloud Services**
+
+  - <img src="https://img.shields.io/badge/Firebase-ff9408?style=plastic&logo=firebase&logoColor=white" alt="Firebase" height="20"/>
+  - <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" height="20"/>
+  - <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" height="20"/>
+  - <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray" height="20"/>
+  - <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" height="20"/>
+
+- **Databases**
+  - <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" height="20"/>
+  - <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" height="20"/>
+
+- **Version Control & Package Management**
+  - <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" height="20"/>
+  - <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white" height="20"/>
+  - <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white" height="20"/>
+
+- **Frontend Development**
+  - <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" height="20"/>
+  - <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" height="20"/>
+  - <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" height="20"/>
+
+- **Deployment & Collaboration Tools**
+  - <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" height="20"/>
+  - <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" height="20"/>
+
+- **Documentation & Utilities**
+  - <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" height="20"/>
+  - <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" height="20"/>
+
+- **Build Tools**
+  - <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white" height="20"/>
+
 ---
 
 ### 🌱 **Currently Learning**:
